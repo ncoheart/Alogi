@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/ncoheart/Projects/Alogi/hduOJ/hdu1019_LeastCommonMultiple.cpp
+stdio.h
+D:/ncoheart/Projects/Alogi/hduOJ/stdio.h
+
